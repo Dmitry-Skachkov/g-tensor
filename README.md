@@ -1,5 +1,8 @@
 # Plot tensor in VESTA   
 
+* [Examples](https://github.com/Dmitry-Skachkov/g-tensor#example-for-plotting-of-g--and-a-tensors)   
+* [How to plot]
+
 ## Example for plotting of g- and A-tensors   
 
 Figure from [D. Skachkov, W. Lambrecht "Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3", Appl. Phys. Lett. 114, 202102 (2019)](https://doi.org/10.1063/1.5099396)     
