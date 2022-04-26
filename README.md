@@ -58,7 +58,7 @@ PRIMCOORD
   Ga    10.8217174641   0.0000000000   1.1556557386     
 ```
 
-Then edit color, size,... of the vestors and rearrange them to one particular atom instead of six:   
+Then edit color, size,... of the vectors and rearrange them to one particular atom instead of six:   
 
 > Edit -> Vectors   
 
