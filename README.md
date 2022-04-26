@@ -7,7 +7,9 @@ Figure from [D. Skachkov, W. Lambrecht "Computational study of electron paramagn
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
 
-# How to plot
+# How to plot    
+
+## Calculate tensor principal axes  
 
 Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/src/Diag1.f90) takes the tensor from [QE](https://www.quantum-espresso.org/) output, calculates principal values of g-tensor (A-tensor), and calculates Miller indexes (u,v,w) of tensor principal axes:
 ```
@@ -25,6 +27,7 @@ Edit -> Vectors and click "New"
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/1.png)
 
    
+## Add vectors in VESTA   
     
 Add vector in (u,v,w) coordinates, change radius (thickness of the vector), color, and uncheck "Penetrate atom"   
 
