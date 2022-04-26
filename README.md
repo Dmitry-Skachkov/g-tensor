@@ -1,7 +1,7 @@
 # Plot tensor in VESTA   
 
 * [Examples](https://github.com/Dmitry-Skachkov/g-tensor#example-for-plotting-of-g--and-a-tensors)   
-* [How to plot]
+* [How to plot](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/README.md#how-to-plot)
 
 ## Example for plotting of g- and A-tensors   
 
