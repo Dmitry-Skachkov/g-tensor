@@ -56,7 +56,7 @@ Add other vectors to the atom.
 
 ## Add vectors in VESTA automatically  
 
-In .xsf file with atom coordinates you can add six vectors to first six atoms:   
+In .xsf file with atom coordinates you can add six vectors to first six atoms (the vestors should be as modulus in crystolographic axes):   
 
 ```
 PRIMCOORD
