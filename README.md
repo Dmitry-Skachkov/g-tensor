@@ -10,9 +10,11 @@ Figure from [D. Skachkov, W. Lambrecht "Computational study of electron paramagn
 Program [Diag1](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/src/Diag1.f90) takes the tensor from QE output, calculates principal values of g-tensor, and calculates Miller indexes (u,v,w) of g-tensor principal axes.   
 Then you add in [VESTA](https://jp-minerals.org/vesta/en/) two vectors for each axis in (u,v,w) coordinates to one particular atom. 
 
+
 Edit -> Vectors and click "New"  
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/1.png)
+
 
 
 Add vector in (u,v,w) coordinates, change radius (thickness of the vector), color, and uncheck "Penetrate atom"   
@@ -20,6 +22,10 @@ Add vector in (u,v,w) coordinates, change radius (thickness of the vector), colo
 ![GitHib_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/2.png)
 
 
+
 Select atom and click "Set", change scale factor to 1  
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/3.png)
+
+
+Add other vectors to the atom.
