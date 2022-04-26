@@ -8,11 +8,12 @@
 
 ## Examples for plotting of g- and A-tensors   
 
-Figure from [D. Skachkov, W. Lambrecht "Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3", Appl. Phys. Lett. 114, 202102 (2019)](https://doi.org/10.1063/1.5099396)     
+Figure from [Dmitry Skachkov, Walter Lambrecht "Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3", Appl. Phys. Lett. 114, 202102 (2019)](https://doi.org/10.1063/1.5099396)     
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
-Figure from 
+Figure from [Dmitry Skachkov, Walter Lambrecht, Hans Jürgen von Bardeleben, Uwe Gerstmann, Quoc Duy Ho, Peter Deák, Computational identification of Ga-vacancy related electron paramagnetic resonance centers in β-Ga2O3. J. Appl. Phys., 125, 185701 (2019)](https://doi.org/10.1063/1.5092626)   
+
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Model_M3_2_gt.jpg)
 
 # How to plot    
