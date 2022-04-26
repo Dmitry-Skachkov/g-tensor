@@ -7,7 +7,14 @@ Figure from [D. Skachkov, W. Lambrecht "Computational study of electron paramagn
 
 # How to plot
 
-Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/src/Diag1.f90) takes the tensor from QE output, calculates principal values of g-tensor, and calculates Miller indexes (u,v,w) of g-tensor principal axes.   
+Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/src/Diag1.f90) takes the tensor from QE output, calculates principal values of g-tensor, and calculates Miller indexes (u,v,w) of g-tensor principal axes:
+```
+ axis of g-tensor in lattice vector notations u,v,w (for plot in VESTA)
+--------------------------------------------------------------------------------
+     -0.0261296      0.0123988      0.0392910
+      0.0261296     -0.0123988     -0.0392910
+--------------------------------------------------------------------------------
+```
 Then you add in [VESTA](https://jp-minerals.org/vesta/en/) two vectors for each axis in (u,v,w) coordinates to one particular atom. 
 
 
