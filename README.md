@@ -18,5 +18,5 @@ Add vector in (u,v,w) coordinates, change radius (thickness of the vector), colo
 ![GitHib_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/2.png)
 
 
-Select atom and click ""
+Select atom and click "Set", change scale factor to 1  
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/3.png)
