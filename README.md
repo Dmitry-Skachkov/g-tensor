@@ -47,4 +47,18 @@ Add other vectors to the atom.
 
 ## Add vectors in VESTA automatically  
 
+In .xsf file with atom coordinates you can add six vectors to first six atoms:   
+
+```
+PRIMCOORD
+  200    1
+  Ga     6.1068369711   1.5200228942   4.4761945299     -0.0261296      0.0123988      0.0392910    
+  Ga     4.7167174875   1.5200228942   1.1556557386      0.0261296     -0.0123988     -0.0392910
+  Ga    10.8217174641   0.0000000000   1.1556557386     
+```
+
+Then edit color, size,... of the vestors and rearrange them to one particular atom instead of six:   
+
+> Edit -> Vectors   
+
 
