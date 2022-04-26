@@ -42,4 +42,9 @@ Select atom and click "Set", change scale factor to 1
     
     
     
-Add other vectors to the atom.
+Add other vectors to the atom.   
+
+
+## Add vectors in VESTA automatically  
+
+
