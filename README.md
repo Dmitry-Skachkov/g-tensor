@@ -18,17 +18,18 @@ Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/sr
      -0.0261296      0.0123988      0.0392910
       0.0261296     -0.0123988     -0.0392910
 --------------------------------------------------------------------------------
-```
-Then you add in [VESTA](https://jp-minerals.org/vesta/en/) two vectors for each axis in (u,v,w) coordinates to one particular atom. 
+```   
 
+
+## Add vectors in VESTA   
+
+Then you add in [VESTA](https://jp-minerals.org/vesta/en/) two vectors for each axis in (u,v,w) coordinates to one particular atom. 
 
 Edit -> Vectors and click "New"  
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/1.png)
 
    
-## Add vectors in VESTA   
-    
 Add vector in (u,v,w) coordinates, change radius (thickness of the vector), color, and uncheck "Penetrate atom"   
 
 ![GitHib_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/2.png)
