@@ -1,4 +1,4 @@
-# Plot g-tensor in VESTA
+# Plot tensor in VESTA
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
