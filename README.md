@@ -1,4 +1,4 @@
-# Plot tensor in VESTA   
+# Plot tensor in [VESTA](https://jp-minerals.org/vesta/en/)     
 
 * [Examples](https://github.com/Dmitry-Skachkov/g-tensor#example-for-plotting-of-g--and-a-tensors)   
 * [How to plot](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/README.md#how-to-plot)   
