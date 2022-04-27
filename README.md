@@ -6,7 +6,7 @@
    * [Add vectors in VESTA manually](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/README.md#add-vectors-in-vesta-manually)  
    * [Add vectors in VESTA automatically](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/README.md#add-vectors-in-vesta-automatically)
 
-## Examples for plotting of g- and A-tensors   
+## Examples for plotting of [EPR](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Magnetic_Resonance_Spectroscopies/Electron_Paramagnetic_Resonance) g- and A-tensors   
 
 Figure from [Dmitry Skachkov, Walter Lambrecht, Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3. Appl. Phys. Lett. 114, 202102 (2019)](https://doi.org/10.1063/1.5099396)     
 
