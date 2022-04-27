@@ -50,7 +50,7 @@ Select atom and click "Set", change scale factor to 1
     
     
 Add other vectors to the atom.  
-*Tip* If you need to set vector between atoms, you can add additional atom at this point and set the size of the atom to 0.2.
+*Tip*: If you need to set vector between atoms, you can add additional atom at this point and set the size of the atom to 0.2.
 
 
 ## Add vectors in VESTA automatically  
