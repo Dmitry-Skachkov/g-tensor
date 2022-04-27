@@ -20,7 +20,7 @@ Figure from [Dmitry Skachkov, Walter Lambrecht, Hans Jürgen von Bardeleben, Uwe
 
 ## Calculate tensor principal axes  
 
-Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/src/Diag1.f90) takes the tensor from [QE](https://www.quantum-espresso.org/) output, calculates principal values of g-tensor (A-tensor), and calculates Miller indexes (u,v,w) of tensor principal axes:
+Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/src/Diag1.f90) takes the tensor from [Quantum Espresso](https://www.quantum-espresso.org/) output, calculates principal values of g-tensor (A-tensor), and calculates Miller indexes (u,v,w) of tensor principal axes:
 ```
  axis of g-tensor in lattice vector notations u,v,w (for plot in VESTA)
 --------------------------------------------------------------------------------
