@@ -32,8 +32,6 @@ Program [src/Diag1.f90](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/sr
 
 ## Add vectors in VESTA manually  
 
-Then you add in [VESTA](https://jp-minerals.org/vesta/en/) two vectors for each axis in (u,v,w) coordinates to one particular atom. 
-
 Edit -> Vectors and click "New"  
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/1.png)
