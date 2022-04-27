@@ -21,5 +21,9 @@ Make g-tensor.dat file:
 
 # Run   
 
-> Diag1   
+> Diag1 g   
+
+or   
+
+> Diag1 A   
 
