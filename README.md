@@ -10,7 +10,7 @@
 
 Tensor can be plotted as double vectors for three principal axes of the tensor with vector lengths proportional to the tensor principal values.
 
-**Figure** from [Dmitry Skachkov, Walter Lambrecht, Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3. Appl. Phys. Lett. 114, 202102 (2019)](https://doi.org/10.1063/1.5099396)     
+**Figure** from [Dmitry Skachkov, Walter Lambrecht, Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3. Appl. Phys. Lett. 114, 202102 (2019)](https://doi.org/10.1063/1.5099396) [![arXiv](https://img.shields.io/badge/Appl._Phys._Lett.-114,_202102_(2019)-9cf)](https://doi.org/10.1063/1.5099396)    
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
