@@ -68,7 +68,7 @@ PRIMCOORD
   Ga    10.8217174641   0.0000000000   1.1556557386     
 ```
 
-Then edit color, size,... of the vectors and rearrange them to one particular atom instead of six:   
+Open .xsf file with VESTA and edit color, size,... of the vectors and rearrange them to one particular atom instead of six:   
 
 > Edit -> Vectors   
 
