@@ -14,7 +14,7 @@ Tensor can be plotted as double vectors for three principal axes of the tensor w
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
-**Figure** from [Dmitry Skachkov, Walter Lambrecht, Hans Jürgen von Bardeleben, Uwe Gerstmann, Quoc Duy Ho, Peter Deák, Computational identification of Ga-vacancy related electron paramagnetic resonance centers in β-Ga2O3. J. Appl. Phys., 125, 185701 (2019)](https://doi.org/10.1063/1.5092626)   
+**Figure** from [Dmitry Skachkov, Walter Lambrecht, Hans Jürgen von Bardeleben, Uwe Gerstmann, Quoc Duy Ho, Peter Deák, Computational identification of Ga-vacancy related electron paramagnetic resonance centers in β-Ga2O3.](https://doi.org/10.1063/1.5092626) [![arXiv](https://img.shields.io/badge/J._Appl._Phys.-125,_185701_(2019)-9cf)](https://doi.org/10.1063/1.5092626)   
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Model_M3_2_gt.jpg)
 
