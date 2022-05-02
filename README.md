@@ -59,11 +59,10 @@ Add other vectors to the atom.
 
 In .xsf file with atom coordinates you can add six vectors to first six atoms (the vectors should be as units in crystollographic axes):   
 
-:arrow_double_down: `:arrow_double_down:`
-
+                                                          :arrow_double_down: :arrow_double_down: :arrow_double_down: 
 ```
 PRIMCOORD
-  200    1                                               :arrow_double_down:
+  200    1                                               
   Ga     6.1068369711   1.5200228942   4.4761945299     -0.0261296      0.0123988      0.0392910  
   ...
   Ga     4.7167174875   1.5200228942   1.1556557386      0.0261296     -0.0123988     -0.0392910
