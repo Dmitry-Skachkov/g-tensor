@@ -14,7 +14,7 @@ Tensor can be plotted as double vectors for three principal axes of the tensor w
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
-**Example 2.** VGa2 defect structure in β-Ga<sub>2</sub>O<sub>3</sub>, spin density, g-tensor, and Ga atoms with strong hyperfine interaction (HFI). From [![arXiv](https://img.shields.io/badge/J._Appl._Phys.-125,_185701_(2019)-9cf)](https://doi.org/10.1063/1.5092626)   
+**Example 2.** V<sub>Ga2</sub> defect structure in β-Ga<sub>2</sub>O<sub>3</sub>, spin density, g-tensor, and Ga atoms with strong hyperfine interaction. From [![arXiv](https://img.shields.io/badge/J._Appl._Phys.-125,_185701_(2019)-9cf)](https://doi.org/10.1063/1.5092626)   
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Model_M3_2_gt.jpg)
 
