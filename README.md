@@ -10,7 +10,7 @@
 
 Tensor can be plotted as double vectors for three principal axes of the tensor with vector lengths proportional to the tensor principal values.
 
-**Example 1.** Zn<sub>Ga2</sub> structure; spin density is indicated in yellow, g-tensor principal axes are indicated by thick double arrows with their length proportional to the Δg (deviation from the free electron value g<sub>e</sub> = 2.002391), and green colored Ga atoms are the ones with strong superhyperfine (SHF) interaction. The small O spheres are color coded: red O(1), pink O(2), and orange O(3), and the polyhedra surrounding the Ga and their type are indicated. The thin double arrows show the principal axes of SHF interaction. Figure from [![arXiv](https://img.shields.io/badge/Appl._Phys._Lett.-114,_202102_(2019)-9cf)](https://doi.org/10.1063/1.5099396)    
+**Example 1.** Zn<sub>Ga2</sub> defect structure in β-Ga<sub>2</sub>O<sub>3</sub>; spin density is indicated in yellow, g-tensor principal axes are indicated by thick double arrows with their length proportional to the Δg (deviation from the free electron value g<sub>e</sub> = 2.002391), and green colored Ga atoms are the ones with strong superhyperfine (SHF) interaction. The small O spheres are color coded: red O(1), pink O(2), and orange O(3), and the polyhedra surrounding the Ga and their type are indicated. The thin double arrows show the principal axes of SHF interaction. Figure from [![arXiv](https://img.shields.io/badge/Appl._Phys._Lett.-114,_202102_(2019)-9cf)](https://doi.org/10.1063/1.5099396)    
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
