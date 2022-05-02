@@ -1,6 +1,6 @@
 # Plot tensor in [VESTA](https://jp-minerals.org/vesta/en/)     
 
-* [Examples](#example-for-plotting-of-g--and-a-tensors)   
+* [Examples](#examples-for-plotting-of-epr-g--and-a-tensors)   
 * [How to plot](#how-to-plot)   
    * [Calculate tensor principal axes](#calculate-tensor-principal-axes) 
    * [Add vectors in VESTA manually](#add-vectors-in-vesta-manually)  
