@@ -10,7 +10,8 @@
 
 Tensor can be plotted as double vectors for three principal axes of the tensor with vector lengths proportional to the tensor principal values.
 
-**Figure** from [Dmitry Skachkov, Walter Lambrecht, Computational study of electron paramagnetic resonance parameters for Mg and Zn impurities in β-Ga2O3.](https://doi.org/10.1063/1.5099396) [![arXiv](https://img.shields.io/badge/Appl._Phys._Lett.-114,_202102_(2019)-9cf)](https://doi.org/10.1063/1.5099396)    
+Example 1. MgGa1, MgGa2, ZnGa1, and ZnGa2 structures; spin density is indicated in yellow, g-tensor principal axes are indicated by thick double arrows with their length proportional to the Dg (deviation from the free electron value ge ¼ 2.002391), and green colored Ga atoms are the ones with strong SHF interaction. The small O spheres are color coded: red O(1), pink O(2), and orange O(3), and the polyhedra surrounding the Ga and their type are indicated.
+The thin double arrows show the principal axes of SHF interaction. Figure from [![arXiv](https://img.shields.io/badge/Appl._Phys._Lett.-114,_202102_(2019)-9cf)](https://doi.org/10.1063/1.5099396)    
 
 ![GitHub_Logo](https://github.com/Dmitry-Skachkov/g-tensor/blob/main/Zn_Ga2_small_A.png)
 
