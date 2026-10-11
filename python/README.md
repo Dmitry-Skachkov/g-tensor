@@ -220,13 +220,13 @@ which corresponds to
 
 The vectors are defined as integer combinations of the lattice vectors:
 
-\[
+$$
 z = i_a a + i_b b + i_c c
-\]
+$$
 
-\[
+$$
 y = j_a a + j_b b + j_c c
-\]
+$$
 
 For example:
 
@@ -236,9 +236,9 @@ For example:
 
 defines the crystallographic z-axis along
 
-\[
+$$
 a+b+c
-\]
+$$
 
 which corresponds to the `[111]` direction for a cubic cell.
 
