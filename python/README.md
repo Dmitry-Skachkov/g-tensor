@@ -103,35 +103,6 @@ The resulting total A-tensor is diagonalized separately for each selected atom.
 
 ## Selecting specific atoms
 
-The default is:
-
-```bash
---atoms 1-7
-```
-
-Equivalent explicit command:
-
-```bash
-python diag_tensor_gipaw_scf.py hyperfine.out \
-    --qe-input scf.in \
-    --atoms 1-7
-```
-
-Individual atoms can also be selected:
-
-```bash
-python diag_tensor_gipaw_scf.py hyperfine.out \
-    --qe-input scf.in \
-    --atoms 1,2,5
-```
-
-or a different range:
-
-```bash
-python diag_tensor_gipaw_scf.py hyperfine.out \
-    --qe-input scf.in \
-    --atoms 1-12
-```
 By default, atoms 1-7 are processed.
 
 Therefore these two commands are equivalent:
@@ -143,6 +114,14 @@ Therefore these two commands are equivalent:
 To process a different set of atoms, specify another range, for example:
 
 ```--atoms 1-12```
+
+Individual atoms can also be selected:
+
+```bash
+python diag_tensor_gipaw_scf.py hyperfine.out \
+    --qe-input scf.in \
+    --atoms 1,2,5
+```
 
 ---
 
