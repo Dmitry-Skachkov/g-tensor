@@ -132,6 +132,17 @@ python diag_tensor_gipaw_scf.py hyperfine.out \
     --qe-input scf.in \
     --atoms 1-12
 ```
+By default, atoms 1-7 are processed.
+
+Therefore these two commands are equivalent:
+
+```python diag_tensor_gipaw_scf.py hyperfine.out --qe-input scf.in```
+
+```python diag_tensor_gipaw_scf.py hyperfine.out --qe-input scf.in --atoms 1-7```
+
+To process a different set of atoms, specify another range, for example:
+
+```--atoms 1-12```
 
 ---
 
