@@ -73,9 +73,7 @@ This is useful, for example, for a defect calculation in which:
 
 The full hyperfine tensor is constructed as
 
-\[
-A_{\mathrm{total}}
-=
+\[A_{\mathrm{total}} =
 A_{\mathrm{dipolar}}^{\mathrm{sym}}
 +
 A_{\mathrm{FC}} I
