@@ -75,4 +75,4 @@ Open .xsf file with VESTA and edit color, size,... of the vectors and rearrange 
 
 ## Using automatic Python script
 
-[diag_tensor_gipaw_vesta_cartesian.py](/python/diag_tensor_gipaw_vesta_cartesian.py)
+[diag_tensor_gipaw_vesta_cartesian.py](/python/README.md)
