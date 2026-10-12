@@ -339,3 +339,10 @@ Display all command-line options:
 ```bash
 python diag_tensor_gipaw_scf.py --help
 ```
+
+```
+python diag_tensor_gipaw_vesta_cartesian.py g-tensor.out \
+    --qe-input scf.in \
+    --vesta-template d.spin.vesta \
+    --vesta-output g_tensor.vesta \
+    --vesta-length-mode normalized```
