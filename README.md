@@ -5,7 +5,7 @@
    * [Calculate tensor principal axes](#calculate-tensor-principal-axes) 
    * [Add vectors in VESTA manually](#add-vectors-in-vesta-manually)  
    * [Add vectors in VESTA automatically](#add-vectors-in-vesta-automatically)
-   * [Automatic Python script](using-automatic-python-script)
+   * [Automatic Python script](#using-automatic-python-script)
 
 ## Examples for plotting of [EPR](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Magnetic_Resonance_Spectroscopies/Electron_Paramagnetic_Resonance) g- and A-tensors   
 
