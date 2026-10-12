@@ -347,7 +347,7 @@ Simplified Python script for analyzing EPR g-tensors and hyperfine tensors from 
 - Uses a single Cartesian coordinate system consistent with QE.
 - Diagonalizes symmetric tensors to obtain principal values and eigenvectors.
 - Constructs HFI tensors from Fermi-contact and spin-dipolar contributions.
-- Generates VESTA files with bidirectional principal-axis vectors (±) attached to atoms.
+- Generates VESTA files with bidirectional principal-axis vectors (±) attached to atoms. For that you need to prepare .vesta file with necessary view, then the script will modify it by adding double arrows.
 - Preserves spin-density isosurfaces and automatically reads lattice vectors from QE input files.
 
 How to use:
