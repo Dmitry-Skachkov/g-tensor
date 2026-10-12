@@ -340,7 +340,7 @@ Display all command-line options:
 python diag_tensor_gipaw_scf.py --help
 ```
 
-# diag_tensor_gipaw_vesta_cartesian.py
+# [diag_tensor_gipaw_vesta_cartesian.py](diag_tensor_gipaw_vesta_cartesian.py)
 
 Simplified Python script for analyzing EPR g-tensors and hyperfine tensors from Quantum ESPRESSO GIPAW calculations.
 
