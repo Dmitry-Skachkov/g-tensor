@@ -356,7 +356,8 @@ python diag_tensor_gipaw_vesta_cartesian.py g-tensor.out \
     --qe-input scf.in \
     --vesta-template d.spin.vesta \
     --vesta-output g_tensor.vesta \
-    --vesta-length-mode normalized```
+    --vesta-length-mode normalized
+```
 
 VESTA Vector Length Modes:
 - normalized — Vector lengths are proportional to the absolute eigenvalues, normalized to the largest eigenvalue of each tensor. Useful for visualizing tensor anisotropy.
