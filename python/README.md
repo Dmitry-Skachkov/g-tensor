@@ -344,13 +344,15 @@ python diag_tensor_gipaw_scf.py --help
 
 Simplified Python script for analyzing EPR g-tensors and hyperfine tensors from Quantum ESPRESSO GIPAW calculations.
 
-- Uses a single Cartesian coordinate system consistent with QE.
+- Uses a single Cartesian coordinate system consistent with QE and reads lattice vectors from QE input files.
 - Diagonalizes symmetric tensors to obtain principal values and eigenvectors.
 - Constructs HFI tensors from Fermi-contact and spin-dipolar contributions.
 - Generates VESTA files with bidirectional principal-axis vectors (±) attached to atoms. For that you need to prepare .vesta file with necessary view, then the script will modify it by adding double arrows.
-- Preserves spin-density isosurfaces and automatically reads lattice vectors from QE input files.
 
 How to use:
+
+Prepare .vesta file with necessary view and then
+
 ```
 python diag_tensor_gipaw_vesta_cartesian.py g-tensor.out \
     --qe-input scf.in \
