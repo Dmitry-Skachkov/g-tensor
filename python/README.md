@@ -365,4 +365,4 @@ VESTA Vector Length Modes:
 - normalized — Vector lengths are proportional to the absolute eigenvalues, normalized to the largest eigenvalue of each tensor. Useful for visualizing tensor anisotropy.
 - direction — All vectors have equal lengths, regardless of eigenvalues. Useful for comparing principal-axis orientations, particularly under different strain conditions.
 
-(Example.png)
+![GitHub_Logo](Example.png)
